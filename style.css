@@ -1,0 +1,59 @@
+*{
+    padding: o;
+    margin: 0;
+}
+.head{
+    background-color: rgb(252, 5, 211);
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.sub{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.free{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+.card__content1{
+    border: solid white 1px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.standard{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+.card__content2{
+    border: solid white 1px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.premium{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+.card__content3{
+    border: solid white 1px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
